@@ -1,27 +1,27 @@
 # Telegram Shilling Groups List
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)  
-![Last Updated](https://img.shields.io/badge/last--updated-November%2027,%202024-blue)  
+![Last Updated](https://img.shields.io/badge/last--updated-December%2002,%202024-blue)  
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)   
 
-This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-November%2027,%202024-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
+This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-December%2002,%202024-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
 
 
-**Updated 2024-11-27:**
-Black Friday Sales 🔥 30% OFF Site Wide, No Minimum Spend!
+**Updated 2024-12-02:**
+Cyber Monday Sales 🔥 30% OFF Site Wide, No Minimum Spend!
 
 ---
 
 ## 📖 Table of Contents
-- [📅 Nov 2024 Shilling List](#-nov-2024-shilling-list)
+- [📅 Dec 2024 Shilling List](#-dec-2024-shilling-list)
 - [💬 Crypto Shilling Groups](#-crypto-shilling-groups)
 - [🔗 Related Resources](#-related-resources)
 - [🤝 Contributing](#-contributing)
 
 ---
 
-## 📅 Nov 2024 Shilling List  
-We are committed to keeping this list **up-to-date** with active groups. This is the **November 2024 release**, and we will update the list **regularly**.  
+## 📅 Dec 2024 Shilling List  
+We are committed to keeping this list **up-to-date** with active groups. This is the **December 2024 release**, and we will update the list **regularly**.  
 
 💡 **Follow this repository** to get notified of future updates and new group additions. We aim to provide **fresh lists each month** so you always have access to relevant groups.
 
@@ -64,16 +64,16 @@ Select the list below and **copy** it using `Ctrl + C` (Windows) or `Cmd + C` (M
 
 ---
 
-## 🔗 Related Resources  (BLACK FRIDAY 2024 SALES🔥🔥🔥)
+## 🔗 Related Resources  (Cyber Monday 2024 SALES🔥🔥🔥)
 Looking for an automated way to join all these groups?
 👉 [AutoJoiner Bot](https://qqshill.com/downloads/telegram-groups-autojoiner/) for smooth, automated joining across multiple Telegram groups.
 
-🔥Use Code: *BLACKFRIDAY* to enjoy 30% OFF
+🔥Use Code: *CYBERMONDAY24* to enjoy 30% OFF
 
 Looking for an automated way to shill across multiple groups?
 👉[Check out our Telegram Shilling Bot](https://github.com/QQSHILL/telegram-shilling-bot-2024) for 24/7 automated promotions with premium support.
 
-🔥Use Code: *BLACKFRIDAY* to enjoy 30% OFF
+🔥Use Code: *CYBERMONDAY24* to enjoy 30% OFF
 
 ---
 
