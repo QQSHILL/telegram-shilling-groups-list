@@ -61,7 +61,7 @@ Select the list below and **copy** it using `Ctrl + C` (Windows) or `Cmd + C` (M
 
 ---
 
-## 🔗 Related Resources  (Cyber Monday 2024 SALES🔥🔥🔥)
+## 🔗 Related Resources 
 Looking for an automated way to join all these groups?
 👉 [AutoJoiner Bot](https://qqshill.com/downloads/telegram-groups-autojoiner/) for smooth, automated joining across multiple Telegram groups.
 
