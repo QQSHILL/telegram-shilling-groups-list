@@ -1,10 +1,10 @@
 # Telegram Shilling Groups List
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)  
-![Last Updated](https://img.shields.io/badge/last--updated-December%2005,%202024-blue)  
+![Last Updated](https://img.shields.io/badge/last--updated-December%2009,%202024-blue)  
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)   
 
-This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-December%2005,%202024-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
+This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-December%2009,%202024-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
 
 
 ---
@@ -27,36 +27,39 @@ We are committed to keeping this list **up-to-date** with active groups. This is
 ## 💬 Crypto Shilling Groups  
 Select the list below and **copy** it using `Ctrl + C` (Windows) or `Cmd + C` (Mac):
 
-1. https://t.me/BlockchainAINetwork  
-2. https://t.me/andrew_tate_business  
-3. https://t.me/pancakeswapshills  
-4. https://t.me/nft_masterclass  
-5. https://t.me/bsc_eth_pump  
-6. https://t.me/crypto_moon_chat  
-7. https://t.me/supershillers  
-8. https://t.me/ShillEliteDE  
-9. https://t.me/ShillEliteUS  
-10. https://t.me/nft_group_shills  
-11. https://t.me/samuraicryptos  
-12. https://t.me/PublicSpamChat  
-13. https://t.me/AIBusinessSMMCommunity  
-14. https://t.me/bsc_gems_pump  
-15. https://t.me/uniswap_gem_hunter  
-16. https://t.me/gem_apes  
-17. https://t.me/pumpsignals2023  
-18. https://t.me/hypershills  
-19. https://t.me/bscgemstalk  
-20. https://t.me/BSCGemAlertNews  
-21. https://t.me/MoonshotMarkets  
-22. https://t.me/BlockchainandAI  
-23. https://t.me/Big_Pump_Signals_Gem  
-24. https://t.me/rubberduckuni  
-25. https://t.me/cryptospambotsalliance  
-26. https://t.me/meta_marketing_SEO  
-27. https://t.me/supershillerchats  
-28. https://t.me/defihustlers  
-29. https://t.me/tesla_calls  
-30. https://t.me/secret_gem_chat  
+1. https://t.me/shillgrow  
+2. https://t.me/GubbinLounge  
+3. https://t.me/nano_caps  
+4. https://t.me/suitscallsEUA  
+5. https://t.me/anbucryptotalk  
+6. https://t.me/RobShillingGemOfficial  
+7. https://t.me/cryptoprodsshills  
+8. https://t.me/diamondhandsB  
+9. https://t.me/latinosBSC  
+10. https://t.me/Shillqueen
+
+11. https://t.me/whalevomitdisc  
+12. https://t.me/moneyshiill  
+13. https://t.me/neverscamagain  
+14. https://t.me/nanowhalesbsc  
+15. https://t.me/gemsroombsc  
+16. https://t.me/TheWolfCallChat  
+17. https://t.me/cryptofrogslounge  
+18. https://t.me/Hiddengemsearly  
+19. https://t.me/mememecoins  
+20. https://t.me/bezoscallsdiscussionn  
+
+21. https://t.me/safedegens_bsc  
+22. https://t.me/Shillvillebsc  
+23. https://t.me/lotusshill  
+24. https://t.me/hard_shill  
+25. https://t.me/chuletashill  
+26. https://t.me/NipseyCallsHouse  
+27. https://t.me/sgsbsc  
+28. https://t.me/airdroplink3  
+29. https://t.me/newsitelink  
+30. https://t.me/SpartaTG   
+
 
 
 ---
