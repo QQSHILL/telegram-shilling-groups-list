@@ -1,24 +1,24 @@
 # Telegram Shilling Groups List
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)  
-![Last Updated](https://img.shields.io/badge/last--updated-December%2009,%202024-blue)  
+![Last Updated](https://img.shields.io/badge/last--updated-January%2006,%202025-blue)  
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)   
 
-This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-December%2009,%202024-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
+This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-January%2006,%202025-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
 
 
 ---
 
 ## 📖 Table of Contents
-- [📅 Dec 2024 Shilling List](#-dec-2024-shilling-list)
+- [📅 Jan 2025 Shilling List](#-jan-2025-shilling-list)
 - [💬 Crypto Shilling Groups](#-crypto-shilling-groups)
 - [🔗 Related Resources](#-related-resources)
 - [🤝 Contributing](#-contributing)
 
 ---
 
-## 📅 Dec 2024 Shilling List  
-We are committed to keeping this list **up-to-date** with active groups. This is the **December 2024 release**, and we will update the list **regularly**.  
+## 📅 Jan 2025 Shilling List  
+We are committed to keeping this list **up-to-date** with active groups. This is the **January 2025 release**, and we will update the list **regularly**.  
 
 💡 **Follow this repository** to get notified of future updates and new group additions. We aim to provide **fresh lists each month** so you always have access to relevant groups.
 
