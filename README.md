@@ -1,10 +1,10 @@
 # Telegram Shilling Groups List
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)  
-![Last Updated](https://img.shields.io/badge/last--updated-March%2001,%202025-blue)  
+![Last Updated](https://img.shields.io/badge/last--updated-March%2020,%202025-blue)  
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)   
 
-This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-March%2001,%202025-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
+This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-March%2020,%202025-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
 
 
 ---
