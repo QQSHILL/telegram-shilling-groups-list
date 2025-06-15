@@ -1,24 +1,24 @@
 # Telegram Shilling Groups List
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)  
-![Last Updated](https://img.shields.io/badge/last--updated-March%2020,%202025-blue)  
+![Last Updated](https://img.shields.io/badge/last--updated-June%2015,%202025-blue)  
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)   
 
-This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-March%2020,%202025-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
+This repository is your go-to resource for **FREE active Telegram shilling groups**, updated regularly ![Last Updated](https://img.shields.io/badge/last--updated-June%2015,%202025-blue)   to ensure the information stays fresh and useful. **Follow this repository** to get notified whenever we add new groups or make updates!
 
 
 ---
 
 ## 📖 Table of Contents
-- [📅 March 2025 Shilling List](#-march-2025-shilling-list)
+- [📅 June 2025 Shilling List](#-june-2025-shilling-list)
 - [💬 Crypto Shilling Groups](#-crypto-shilling-groups)
 - [🔗 Related Resources](#-related-resources)
 - [🤝 Contributing](#-contributing)
 
 ---
 
-## 📅 March 2025 Shilling List  
-We are committed to keeping this list **up-to-date** with active groups. This is the **March 2025 release**, and we will update the list **regularly**.  
+## 📅 June 2025 Shilling List  
+We are committed to keeping this list **up-to-date** with active groups. This is the **June 2025 release**, and we will update the list **regularly**.  
 
 💡 **Follow this repository** to get notified of future updates and new group additions. We aim to provide **fresh lists each month** so you always have access to relevant groups.
 
@@ -58,7 +58,29 @@ Select the list below and **copy** it using `Ctrl + C` (Windows) or `Cmd + C` (M
 27. https://t.me/sgsbsc  
 28. https://t.me/airdroplink3  
 29. https://t.me/newsitelink  
-30. https://t.me/SpartaTG   
+30. https://t.me/SpartaTG
+
+31. https://t.me/NFTGemArt
+32. https://t.me/SatoshiNakamoto1478
+33. https://t.me/Crypto_Moon_Shillers
+34. https://t.me/WSHiddenGems
+35. https://t.me/metaverseexplorers
+36. https://t.me/AIBusinessSMMCommunity
+37. https://t.me/supereotChina
+38. https://t.me/BlockchainAINetwork
+39. https://t.me/BlockchainandAI
+
+40. https://t.me/ShillEliteDE
+41. https://t.me/degenshillz
+42. https://t.me/cryptospambotsalliance
+43. https://t.me/uniswaptalk
+44. https://t.me/CryptoFrancee
+45. https://t.me/CryptoPumpShillsgroup
+46. https://t.me/aircoinchinese
+47. https://t.me/ShillNFT_Russia
+48. https://t.me/ShillEliteRU
+49. https://t.me/ShillEliteCN
+50. https://t.me/qihangCN
 
 
 
